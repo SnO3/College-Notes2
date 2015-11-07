@@ -1,0 +1,12 @@
+Ready to copy!
+Enter 0.0 when done!
+1.0
+1.00
+2.0
+2.00
+3.0
+3.00
+4.0
+4.00
+0.0
+Goodbye!

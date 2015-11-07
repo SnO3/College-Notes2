@@ -1,0 +1,75 @@
+GitNotes
+
+#Ways to use Git
+   •/Local_Version_Control
+      ◦Saves files to database on computer
+   •/Centralized_Version_Control
+      ◦Saves files to a database on a network server
+   •/Distributed_Version_Control
+      ◦Saves files to a database on a interweb server
+
+#File States in Git
+   •/Modified
+      ◦Files that have been changed
+   •/Staged
+      ◦Files to be saved
+   •/Committed_Files
+      ◦Files that have been saved
+
+#Configeration of Git Bash
+   •/Username
+      ◦‘git config --global user.name [name]’ 
+   •/Email
+      ◦‘git config --global user.email [email] ’
+   •/Core
+      ◦‘git core.editor vim’
+
+#Directory Navigation
+   •/Commands
+      ◦‘cd’    (Change Directory)
+      ◦‘ls’    (Show contents of directory)
+      ◦‘ls -a’ (Show content + hidden files of dirrectory)
+      ◦‘mkdir’ (Create new folder)
+
+#Initializing a Repository
+   •/Init_master
+      ◦‘git init’
+      ◦‘git add .’
+      ◦ ‘git commit -m “Comment”’
+   •/Ignoring_Files (from tracking in directory)
+      ◦Create .gitignore file
+         ▸ ‘touch .gitignore’
+         ▸[.filetype] to ignore filetypes
+         ▸[foldername/] to ignore folders
+
+#Managing Files
+   •/Comitting_Staged
+      ◦‘git commit -m "Message’
+   •/Staging
+      ◦‘git add [filename.filetype][*][*.filetype]’
+         ▸‘*’ translates to ALL
+   •/Getting_changes
+      ◦‘git diff’
+   •/Skipping_Staging
+      ◦‘git commit -a’
+   •/Deleting
+      ◦ ‘git rm [filename.filetype]’
+         ▸if staged, force delete: ‘git rm -f [filename.filetype]’
+   •/Remove_from_staging
+      ◦‘git rm --cached [filename.filetype]’
+   •/Renaming
+      ◦‘git mv [filename.filetype] [newfilename.filetype]’
+
+
+   “Look up log commands to document”
+#Logs
+   •/Log_messages (in reverse chronological order)
+      ◦‘git log’
+   •/Logs_formatted
+      ◦‘git log --pretty=oneline’
+   •Log messages formatted
+      ◦‘git log --pretty=format:[format codes]’
+         ▸‘%h’(Hash code abbreviation)
+         ▸‘%an’(Name of User that made change)
+         ▸‘%ar’(What time change was made relative to current time)
+         ▸ ‘%s’(First line in commit message.)

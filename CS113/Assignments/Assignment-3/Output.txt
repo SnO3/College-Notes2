@@ -1,0 +1,13 @@
+Number to Lookup: 21
+	>> 21 is in the database
+Number to Lookup: 20
+	>> 20 is not in the database
+Number to Lookup: 15
+	>> 15 is not in the database
+Number to Lookup: 67
+	>> 67 is not in the database
+Number to Lookup: 0
+	>> 0 is in the database
+Number to Lookup: -1
+	>> -1 is in the database
+Number to Lookup: ^C

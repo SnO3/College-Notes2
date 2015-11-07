@@ -1,0 +1,44 @@
+i.
+while(condition statement){
+}
+While a condition is true run the code within the curly brackets over 
+and over again.
+
+int i = 1;
+while(i<4){
+	i+=2;
+}
+
+ii.
+for(int var=0, var<num, i++){
+}
+While var is less than num run the code within the curly brackets over 
+and over again. The increment of i makes sure that the loop will 
+eventually exit the loop. Additionally i can be used in the loop. 
+
+for(int var=0, var<4, i++){
+	System.out.println(i);
+}
+
+iii.
+if(condition statement){	
+}
+If the condition statement is true run the code within the curly brackets.
+
+if(4>1){
+	System.out.println("true");
+}
+
+iv.
+int i[] = new int[arraysize];
+The square brackets used in declaration makes the variable into an array.
+The size of the array is denoted by the integer value of arraysize.
+
+int i[] = new int[2];
+i[0]=1;
+i[1]=2;
+
+v.
+bool var = true;
+bool is short for boolean. A boolean variable can either have the value of true
+or false.

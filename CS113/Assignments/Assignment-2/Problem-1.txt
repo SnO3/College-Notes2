@@ -1,0 +1,8 @@
+A.  size = 31
+B.  length = 1
+C.  expr1 = 56
+	expr2 = -8
+	expr3 = 35
+	expr4 = True
+	expr5 = True
+D.  distance = Math.sqrt(Math.pow(x2-x1,2) + Math.pow(y2-y1, 2)); 

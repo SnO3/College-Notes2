@@ -1,0 +1,21 @@
+IT120
+
+#Day 1
+   • What is Networking?
+      ◦ A group of computers connected to each other
+
+   • The goal of Networking?
+      ◦ To make a remote resource act like a local resource
+
+   • Dumb Terminals (CRT Terminal)
+      ◦ Used for input and output to command remote computers
+   
+   • Modems
+      ◦ Enabled a terminal to connect to a remote mainframe
+
+   • Terminal manufacturers
+      ◦ created standards for one terminal to connect to any mainframe
+         ▸ custom terminals needed to be created beforehand
+   
+   • Moving data
+      ◦ OSI Seven Layer Process

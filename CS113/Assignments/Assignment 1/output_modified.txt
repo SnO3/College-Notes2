@@ -1,0 +1,14 @@
+Ready to copy!
+Enter 0.0 when done!
+2.0
+2.00
+3.0
+3.00
+-4.0
+-4.00
+0.0
+Count of numbers read = 3
+Total value of numbers read = 1.00
+Average value of numbers read = 0.33
+
+Goodbye!

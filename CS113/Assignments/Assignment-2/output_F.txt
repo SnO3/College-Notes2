@@ -1,0 +1,16 @@
+Welcome to the Temperature Converter!
+Enter 0 to convert F --> C and 1 to convert from C --> F
+Enter Control-Z when done!
+0
+Welcome to the F --> C Converter!
+212.0
+212.00F = 100.00C
+32.0
+32.00F = 0.00C
+45.0
+45.00F = 7.22C
+99.0
+99.00F = 37.22C
+-459.67
+-459.67F = -273.15C
+Goodbye!

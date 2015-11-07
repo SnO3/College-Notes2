@@ -1,0 +1,340 @@
+DnD_Doc
+
+#Races
+
+Dwarf:
+   • Con. Score goes up by 2
+   • Size is Medium ()
+   • speed is 25ft not reduced by heavy armor
+   • Darkvision
+   • Poison Resistance (adv an poison saving throws)
+   • Proficiency with:
+      ◦ battleaxe
+      ◦ handaxe
+      ◦ throwing hammer
+      ◦ warhammer
+   •Languages:
+      ◦ Common
+      ◦ Dwarvish
+   • Hill Dwarf
+      ◦ Wisdom goes up by 1
+      ◦ hit point max increased by 1 and by 1 every level
+   • Mountain Dwarf
+      ◦ Strength goes up by 2
+      ◦ Proficiency with light and medium armor
+      
+Elf:
+   • Dex goes up by 2
+   • Size is Medium
+   • Speed is 30ft
+   • Darkvision
+   • Proficiency in perception
+   • Adv on charmed saving throws
+      ◦ magic cannot put you to sleep
+   • Languages:
+      ◦ Common
+      ◦ Elvish
+   • Proficiency with:
+      ◦ longsword
+      ◦ shortsword
+      ◦ shortbow
+      ◦ longbow
+   • High Elf
+      ◦ Int goes up by 1
+      ◦ One Cantrip from Wizard spell list
+      ◦ One extra language
+   • Wood Elf
+      ◦ Wis goes up by 1
+      ◦ Speed is 35ft
+      ◦ Can hide when lightly obscured
+   • Dark Elf
+      ◦ Char goes up by 1
+      ◦ Darkvision (120ft)
+      ◦ Sunlight Sensitivity
+      ◦ _Dancing Lights_ cantrip (1st level)
+      ◦ _faerie fire_ spell (3rd level)
+      ◦ _darkness_ spell (5th level)
+      ◦ Proficiency with:
+         ▸ rapiers
+         ▸ shortswords
+         ▸ hand crossbows
+
+Halfling:
+   • Dex goes up by 2
+   • Size is Small
+   • Speed is 25ft
+   • If rolled 1 can reroll
+   • Adv on saving throw for frightened
+   • Can move through the space of any creature larger than you
+   • Languages:
+      ◦ Common
+      ◦ Halfling
+   • Lightfoot
+      ◦ Char goes up by 1
+      ◦ Can hide behind a creature at least one size larger
+   • Stout
+      ◦ Const goes up by 1
+      ◦ Adv on poison saving throws
+      ◦ resistance to poison
+
+Human:
+   • Every score goes up by 1
+   • Size is Medium
+   • Speed is 30ft
+   • Language:
+      ◦ Common
+      ◦ Any
+
+Dragonborn:
+   • Str goes up by 2
+   • Char goes up by 1
+   • Size is Medium
+   • Speed is 30ft
+   • Dragon Type:
+      ◦ Black
+         ▸ Acid dmg
+         ▸ 5x30ft line (dex save)
+      ◦ Blue
+         ▸ lightning dmg
+         ▸ 5x30ft line (dex save)
+      ◦ Brass
+         ▸ Fire dmg
+         ▸ 5x30ft line (dex save)
+      ◦ Bronze
+         ▸ Lightning
+         ▸ 5x30ft line (dex save)
+      ◦ Copper
+         ▸ Acid dmg
+         ▸ 5x30ft line (dex save)
+      ◦ Gold
+         ▸ Fire dmg
+         ▸ 15ft cone (dex save)
+      ◦ Green
+         ▸ Poison dmg
+         ▸ 15ft cone (con save)
+      ◦ Red
+         ▸ Fire dmg
+         ▸ 15ft cone (dex save)
+      ◦ Silver
+         ▸ Cold dmg
+         ▸ 15ft cone (con save)
+      ◦ White
+         ▸ Cold dmg
+         ▸ 15ft cone (con save)
+   • Breath Weapon 
+      ◦ DC is 8 + Con modifier + proficiency bonus
+      ◦ Dmg
+         ▸ 2d6 (level 1)
+         ▸ 3d6 (level 6)
+         ▸ 4d6 (level 11)
+         ▸ 5d6 (level 16)
+      ◦ On successful saving throw target takes half dmg
+   • Dmg Resistance = dragon type dmg
+   • Language:
+      ◦ Common
+      ◦ Draconic
+
+Gnome:
+   • Int goes up by 2
+   • Size is Small
+   • Speed is 25ft
+   • Darkvision
+   • Adv on Int, Wis, and Char ST against magic
+   • Language:
+      ◦ Common
+      ◦ Gnomish
+   • Foest Gnome
+      ◦ Dex goes up by 1
+      ◦ _Minor Illusion_ cantrip (Int)
+      ◦ Can convey simple ideas with small creatures
+   • Rock Gnome
+      ◦ Con goes up by 1
+      ◦ Tinker
+         ▸ Clockwork Toy
+         ▸ FireStarter
+         ▸ Music Box
+
+Half-Elf:
+   • Char goes up by 2
+   • Any other two go up by 1
+   • Size is Medium
+   • Speed is 30ft
+   • Darkvision
+   • Adv on charmed saving throws
+      ◦ Can’t be put to sleep by magic
+   • Proficient in two skill of choice
+   • Language:
+      ◦ Common
+      ◦ Any
+
+Half-Orc:
+   • Str goes up by 2
+   • Con goes up by 1
+   • Size is Meduim
+   • Speed is 30ft
+   • Darkvision
+   • Proficiency in Intimidate
+   • Relentless Endurance
+      ◦ gets 1hp if reduced to 0 (daily)
+   • Savage Attacks (on crit)
+      ◦ roll one of the weapon’s dmg dice again and add dmg
+   • Language:
+      ◦ Common
+      ◦ Orc
+
+Teifling:
+   • Int goes up by 1
+   • Char goes up by 2
+   • Size is Medium
+   • Speed is 30ft
+   • Darkvision
+   • Resistance to fire
+   • _thaumaturgy_ cantrip
+   • _hellish rebuke_ spell (3rd level) (Char)
+   • _darkness_ spell (5th level) (Char)
+   • Language:
+      ◦ Common
+      ◦ Infernal
+
+#Classes
+
+Barbarian:
+   • Hit die = d12
+   • Max health increase = 1d12 (or 7) + Con mod
+   • Primary Ability = Str
+   • ST Proficiency = Str and Con
+   • A/W Proficiency
+      ◦ light and medium armor
+      ◦ shields
+      ◦ simple and martial weapons
+   • Cannot be blinded, deafened, or incapacitated
+   • Rage
+      ◦ Adv on Str checks and Str STs
+      ◦ Gain bonus dmg on attack
+      ◦ Resistance to bludgeoning/piercing/slashing
+      ◦ Cannot cast spells in rage
+      ◦ lasts for 10 rounds
+      ◦ If you don’t attack OR you havent been dealt dmg (in a round) rage ends
+      ◦ You can end your rage as a bonus action
+      ◦ 2 rages (level 1)
+         ▸ +2 dmg
+      ◦ 3 rages (level 3)
+      ◦ 4 rages (level 6)
+         ▸ +2 dmg
+         ▸ +3 dmg (level 9)
+      ◦ 5 rages (level 12)
+         ▸ +3 dmg
+         ▸ +4 dmg (level 16)
+      ◦ 6 rages (level 17)
+      ◦ Unlimited rages (level 20)
+   • Unarmored Defense
+      ◦ Armor Class = 10 + Dex mod + Con mod
+   • Reckless Attack (level 2)
+      ◦ Get advantage on Str. attack roll
+      ◦ Others have advantage on their attacks on you until your next turn
+   • 
+Bard:
+   • Hit die = d8
+   • Primary Ability = Cha
+   • ST Proficiency = Dex and Cha
+   • A/W Proficiency
+      ◦ light armor
+      ◦ simple weapons
+      ◦ hand crossbows
+      ◦ longswords
+      ◦ rapiers
+      ◦ shortswords
+Cleric:
+   • Hit die = d8
+   • Primary Ability = Wis
+   • ST Proficiency = Wis and Cha
+   • A/W Proficiency
+      ◦ light and medium armor
+      ◦ shields
+      ◦ simple weapons
+Druid:
+   • Hit die = d8
+   • Primary Ability = Wis
+   • ST Proficiency = Int and Wis
+   • A/W Proficiency
+      ◦ light and medium armor (nonmetal)
+      ◦ shields (nonmetal)
+      ◦ clubs
+      ◦ daggers
+      ◦ darts
+      ◦ javelins
+      ◦ maces
+      ◦ quarterstaffs
+      ◦ scimitars
+      ◦ sickles
+      ◦ slings
+      ◦ spears
+Fighter:
+   • Hit die = d10
+   • Primary Ability = Str or Dex
+   • ST Proficiency = Str and Con
+   • A/W Proficiency
+      ◦ All armor
+      ◦ shields
+      ◦ simple and martial weapons
+Monk:
+   • Hit die = d8
+   • Primary Ability = Dex and Wis
+   • ST Proficiency = Str and Dex
+   • A/W Proficiency
+      ◦ simple weapons
+      ◦ shortswords
+Paladin:
+   • Hit die = d10
+   • Primary Ability = Str and Cha
+   • ST Proficiency = Wis and Cha
+   • A/W Proficiency
+      ◦ All armor
+      ◦ shields
+      ◦ simple and martial weapons
+Ranger:
+   • Hit die = d10
+   • Primary Ability = Dex and Wis
+   • ST Proficiency = Str and Dex
+   • A/W Proficiency
+      ◦ light and medium armor
+      ◦ shields
+      ◦ simple and martail weapons
+Rouge:
+   • Hit die = d8
+   • Primary Ability = Dex
+   • ST Proficiency = Dex and Int
+   • A/W Proficiency
+      ◦ light armor
+      ◦ simple weapons
+      ◦ hand crossbows
+      ◦ longswords
+      ◦ rapiers
+      ◦ shortswords
+Sorcerer:
+   • Hit die = d6
+   • Primary Ability = Cha
+   • ST Proficiency = Con and Cha
+   • A/W Proficiency
+      ◦ daggers
+      ◦ darts
+      ◦ slings
+      ◦ quarterstaffs
+      ◦ light crossbows
+Warlock:
+   • Hit die = d8
+   • Primary Ability = Cha
+   • ST Proficiency = Wis and Cha
+   • A/W Proficiency
+      ◦ light armor
+      ◦ simple weapons
+Wizard:
+   • Hit die = d6
+   • Primary Ability = Int
+   • ST Proficiency = Int and Wis
+   • A/W Proficiency
+      ◦ daggers
+      ◦ darts
+      ◦ slings
+      ◦ quarterstaffs
+      ◦ light crossbows

@@ -1,0 +1,17 @@
+1.  Comment that summs up the application
+2.  Import of java.util package to access Scanner Class
+3.  Class block initialization
+4.  Launcher method block initialization
+5.  Declaration of a Scanner object
+6.  Printing of a String to the console
+7.  Continuation of printing method 'println()'
+8.  Declaration of a double floating point integer named 'num'
+9.  Assignment of 'num' to the returned value of the Scanner method 'nextDouble()'
+10. While Loop declaration with the condition that num is not equal to 0.0
+11. Printing of num using the method 'printf()'
+12. Same as description for line 9
+13. Closing of encapsulation for while loop
+14. Printing of the string "Goodbye" to the console
+15. Execution of method that results in the termination of the Java Virtual Machine
+16. Closing of encapsulation for the main() method
+17. Closing of encapsulation for the Copy class
